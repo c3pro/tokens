@@ -1,0 +1,11 @@
+{
+ "name": "FIBO token",
+ "website": "https://fibswap.io",
+ "description": "FibSwap is a Multi-chain, decentralized exchange allowing you to swap tokens from one chain to tokens on another chain with the click of a button",
+ "explorer": "https://bscscan.com/token/0x5067c6e9e6c443372f2e62946273abbf3cc2f2b3",
+ "type": "BEP20",
+ "symbol": "FIBO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5067c6e9e6c443372f2e62946273abbf3cc2f2b3"
+}
